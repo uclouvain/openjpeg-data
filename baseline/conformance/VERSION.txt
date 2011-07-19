@@ -1,0 +1,45 @@
+Version 1.5 November 5, 2004 Changed file names
+
+For ISO/ITU rules on electronic attachments to standards, the
+names with dashes "-" have been changed to underscores "_".
+Hopefully Table C-6 and C-7 in the standard will be changed 
+as well.
+
+Version 1.4 December 1, 2003 Update to compatibility code
+
+testfiles_jp2/file5.jp2 - The compatibility code for JPX 
+baseline had two characters swapped.
+
+Version 1.3 July 14, 2003 Update to copyright
+
+COPYRIGHT This file was changed to indicate test files can be
+used by ITU as well as ISO.
+
+Version 1.2 November 4, 2002 Update to file format reference image
+
+reference_jp2/jp2_5.tif has been changed to the file that was
+in the archive as tmp_ref5.tif. The old jp2_5.tif was mistakenly
+included from an old version.
+
+Note that it was discovered that p0_03 and p0_15 are identical. This
+was an error, but it is easiest not to change the error.
+
+Version 1.1 March 27, 2002 Update to file format tests
+
+testfiles_jp2/file5.jp2 and testfiles_jp2/file7.jp2 have been modifed
+to be JP2 compatible JPX files, rather than JP2 "only" files. This was
+the way the files were in versions prior to the FDIS release, and the
+way the Part 4 text describes the files. (reference_jp2/jp2_5.tif
+unchanged)(reference_jp2/jp2_7.tif unchanged)
+
+descriptions_j2p/file5.desc updated to match
+
+descriptions_j2p/file7.desc updated to match
+
+testfiles_jp2/file8.jp2 has been fixed, the JP2 wrapper was incorrect
+for codestream contained. (reference_jp2/jp2_8.tif unchanged)
+
+descriptions_j2p/file8.desc updated to match
+
+Version 1.0 February 27, 2002 FDIS release 
+

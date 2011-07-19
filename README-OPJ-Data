@@ -1,0 +1,3 @@
+These data are used to run the OpenJPEG test suite.
+
+(this file is also used for the automatic location of OPJ-Data by cmake)
