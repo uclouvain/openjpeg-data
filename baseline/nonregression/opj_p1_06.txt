@@ -1,0 +1,712 @@
+image {
+  x0=0, y0=0, x1=12, y1=12
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 2 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=3, tdy=3
+  tw=4, th=4
+  tile 0 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 1 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 2 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 3 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 4 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 5 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 6 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 7 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 8 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 9 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 10 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 11 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 12 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 13 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 14 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+  tile 15 {
+    csty=6
+    prg=3
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=5
+      cblkw=6
+      cblkh=5
+      cblksty=28
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1821,14) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+    }
+  }
+}

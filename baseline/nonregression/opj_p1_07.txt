@@ -1,0 +1,54 @@
+image {
+  x0=4, y0=0, x1=12, y1=12
+  numcomps=2
+  comp 0 {
+    dx=4, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=4, ty0=0
+  tdx=12, tdy=12
+  tw=1, th=1
+  tile 0 {
+    csty=7
+    prg=2
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=1
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,8) (0,9) (0,9) (0,10) 
+      prcw=0 1 
+      prch=0 1 
+    }
+    comp 1 {
+      csty=1
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,8) (0,9) (0,9) (0,10) 
+      prcw=1 2 
+      prch=1 2 
+    }
+  }
+}

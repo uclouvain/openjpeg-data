@@ -1,0 +1,33 @@
+image {
+  x0=5, y0=128, x1=127, y1=227
+  numcomps=1
+  comp 0 {
+    dx=2, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=1, ty0=101
+  tdx=127, tdy=126
+  tw=1, th=1
+  tile 0 {
+    csty=6
+    prg=0
+    numlayers=5
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=4
+      cblkw=5
+      cblkh=5
+      cblksty=34
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+    }
+  }
+}

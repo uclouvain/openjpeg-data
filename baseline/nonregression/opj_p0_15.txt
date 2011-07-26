@@ -1,0 +1,90 @@
+image {
+  x0=0, y0=0, x1=256, y1=256
+  numcomps=1
+  comp 0 {
+    dx=1, dy=1
+    prec=4
+    sgnd=1
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=128, tdy=128
+  tw=2, th=2
+  tile 0 {
+    csty=2
+    prg=3
+    numlayers=8
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=7
+      stepsizes=(0,4) (0,5) (0,5) (0,6) 
+    }
+  }
+  tile 1 {
+    csty=2
+    prg=3
+    numlayers=8
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,4) (0,5) (0,5) (0,6) 
+    }
+  }
+  tile 2 {
+    csty=2
+    prg=3
+    numlayers=8
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,4) (0,5) (0,5) (0,6) 
+    }
+  }
+  tile 3 {
+    csty=2
+    prg=3
+    numlayers=8
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=2
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,4) (0,5) (0,5) (0,6) 
+    }
+  }
+}

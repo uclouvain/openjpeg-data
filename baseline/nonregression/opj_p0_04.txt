@@ -1,0 +1,73 @@
+image {
+  x0=0, y0=0, x1=640, y1=480
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 2 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=640, tdy=480
+  tw=1, th=1
+  tile 0 {
+    csty=1
+    prg=1
+    numlayers=20
+    mct=1
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=1
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=4
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1814,16) (1815,16) (1815,16) (1817,16) (1821,15) (1821,15) (1827,15) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+      prcw=7 7 7 7 7 7 7 
+      prch=7 7 7 7 7 7 7 
+    }
+    comp 1 {
+      csty=1
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=4
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1814,14) (1815,14) (1815,14) (1817,14) (1821,13) (1821,13) (1827,13) (1845,12) (1845,12) (1868,12) (1925,11) (1925,11) (2007,11) (32,9) (32,9) (131,9) (2002,9) (2002,9) (1888,9) 
+      prcw=7 7 7 7 7 7 7 
+      prch=7 7 7 7 7 7 7 
+    }
+    comp 2 {
+      csty=1
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=4
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=0
+      stepsizes=(1814,14) (1815,14) (1815,14) (1817,14) (1821,13) (1821,13) (1827,13) (1845,12) (1845,12) (1868,12) (1925,11) (1925,11) (2007,11) (32,9) (32,9) (131,9) (2002,9) (2002,9) (1888,9) 
+      prcw=7 7 7 7 7 7 7 
+      prch=7 7 7 7 7 7 7 
+    }
+  }
+}

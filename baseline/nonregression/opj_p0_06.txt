@@ -1,0 +1,84 @@
+image {
+  x0=0, y0=0, x1=513, y1=129
+  numcomps=4
+  comp 0 {
+    dx=1, dy=1
+    prec=12
+    sgnd=0
+  }
+  comp 1 {
+    dx=2, dy=1
+    prec=12
+    sgnd=0
+  }
+  comp 2 {
+    dx=1, dy=2
+    prec=12
+    sgnd=0
+  }
+  comp 3 {
+    dx=2, dy=2
+    prec=12
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=513, tdy=129
+  tw=1, th=1
+  tile 0 {
+    csty=0
+    prg=2
+    numlayers=4
+    mct=0
+    rates=0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=3
+      roishift=9
+      stepsizes=(512,7) (518,7) (522,7) (524,7) (516,6) (524,6) (522,6) (527,5) (523,5) (549,5) (557,4) (561,4) (853,4) (852,3) (700,3) (163,2) (78,1) (1508,2) (1831,1) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=4
+      roishift=0
+      stepsizes=(1527,10) (489,10) (665,10) (506,10) (487,9) (502,9) (493,9) (493,8) (500,8) (485,8) (505,7) (491,7) (490,7) (491,6) (499,6) (509,6) (503,5) (496,5) (558,5) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=5
+      roishift=0
+      stepsizes=(1337,10) (728,10) (890,10) (719,10) (716,9) (726,9) (700,9) (718,8) (704,8) (704,8) (712,7) (712,7) (717,7) (719,6) (701,6) (749,6) (753,5) (718,5) (841,5) 
+    }
+    comp 3 {
+      csty=0
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=6
+      roishift=0
+      stepsizes=(0,12) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) 
+    }
+  }
+}

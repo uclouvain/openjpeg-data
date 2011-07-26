@@ -1,0 +1,67 @@
+image {
+  x0=0, y0=0, x1=513, y1=3072
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=12
+    sgnd=1
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=12
+    sgnd=1
+  }
+  comp 2 {
+    dx=1, dy=1
+    prec=12
+    sgnd=1
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=513, tdy=3072
+  tw=1, th=1
+  tile 0 {
+    csty=6
+    prg=4
+    numlayers=30
+    mct=0
+    rates=0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=7
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=4
+      roishift=0
+      stepsizes=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=8
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=4
+      roishift=0
+      stepsizes=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=9
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=4
+      roishift=0
+      stepsizes=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+    }
+  }
+}
