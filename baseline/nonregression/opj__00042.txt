@@ -1,0 +1,73 @@
+image {
+  x0=0, y0=0, x1=1920, y1=1080
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=12
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=12
+    sgnd=0
+  }
+  comp 2 {
+    dx=1, dy=1
+    prec=12
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=1920, tdy=1080
+  tw=1, th=1
+  tile 0 {
+    csty=1
+    prg=4
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=1
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=2
+      roishift=0
+      stepsizes=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+    comp 1 {
+      csty=1
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=2
+      roishift=0
+      stepsizes=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+    comp 2 {
+      csty=1
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=2
+      roishift=0
+      stepsizes=(1824,18) (1776,18) (1776,18) (1728,18) (1792,17) (1792,17) (1760,17) (1872,16) (1872,16) (1896,16) (5,14) (5,14) (71,14) (2003,14) (2003,14) (1890,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+  }
+}

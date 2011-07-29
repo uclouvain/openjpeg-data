@@ -1,0 +1,33 @@
+image {
+  x0=0, y0=0, x1=512, y1=512
+  numcomps=1
+  comp 0 {
+    dx=1, dy=1
+    prec=16
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=512, tdy=512
+  tw=1, th=1
+  tile 0 {
+    csty=0
+    prg=0
+    numlayers=2
+    mct=0
+    rates=0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=2
+      roishift=0
+      stepsizes=(1824,22) (1776,22) (1776,22) (1728,22) (1792,21) (1792,21) (1760,21) (1872,20) (1872,20) (1896,20) (5,18) (5,18) (71,18) (2003,18) (2003,18) (1890,18) 
+    }
+  }
+}

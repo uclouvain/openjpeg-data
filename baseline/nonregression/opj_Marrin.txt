@@ -1,0 +1,50 @@
+image {
+  x0=0, y0=0, x1=135, y1=135
+  numcomps=2
+  comp 0 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=135, tdy=135
+  tw=1, th=1
+  tile 0 {
+    csty=0
+    prg=0
+    numlayers=2
+    mct=0
+    rates=0.0 0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1822,14) (1770,14) (1770,14) (1724,14) (1792,13) (1792,13) (1762,13) (1868,12) (1868,12) (1892,12) (3,10) (3,10) (69,10) (2002,10) (2002,10) (1889,10) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1822,14) (1770,14) (1770,14) (1724,14) (1792,13) (1792,13) (1762,13) (1868,12) (1868,12) (1892,12) (3,10) (3,10) (69,10) (2002,10) (2002,10) (1889,10) 
+    }
+  }
+}
