@@ -61,3 +61,12 @@ Adding an image with multiple tiles:
 -----
 Adding a subdirectory: J2KP4files which contains the JP2 and J2K (only) files from :
 wget http://www.crc.ricoh.com/~gormish/jpeg2000conformance/j2kp4files_v1_5.zip
+-----
+
+illegalcolortransform.j2k is a special file. This used to be known as:
+http://gdcm.sourceforge.net/thingies/jp2c.j2k
+
+This file contains a value of 0x01 at offset 0x36, while it should be 0x00. kakadu gracefully
+handles it with a message:
+Illegal colour transform specified when image has insufficient or incompatible colour components.
+OpenJPEG simply segfaults (1.4)
