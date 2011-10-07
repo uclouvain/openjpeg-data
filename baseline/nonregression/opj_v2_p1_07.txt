@@ -1,0 +1,64 @@
+Image info {
+	 x0=4, y0=0
+	 x1=12, y1=12
+	 numcomps=2
+		 component 0 {
+		 dx=4, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=4, ty0=0
+	 tdx=12, tdy=12
+	 tw=1, th=1
+	 default tile {
+		 csty=0x7
+		 prg=0x2
+		 numlayers=1
+		 mct=0
+		 comp 0 {
+			 csty=0x1
+			 numresolutions=2
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(0,0) (1,1) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0x1
+			 numresolutions=2
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(1,1) (2,2) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=0
+	 Main header end position=133
+	 Marker list: {
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=46
+		 type=0xff52, pos=48, len=16
+		 type=0xff53, pos=64, len=13
+		 type=0xff5c, pos=77, len=9
+		 type=0xff64, pos=86, len=47
+	 }
+}

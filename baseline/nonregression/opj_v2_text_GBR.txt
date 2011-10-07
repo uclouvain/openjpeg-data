@@ -1,0 +1,80 @@
+Image info {
+	 x0=0, y0=0
+	 x1=400, y1=400
+	 numcomps=3
+		 component 0 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=128, tdy=128
+	 tw=4, th=4
+	 default tile {
+		 csty=0
+		 prg=0x1
+		 numlayers=6
+		 mct=1
+		 comp 0 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=1658
+	 Main header end position=1744
+	 Marker list: {
+		 type=0xff4f, pos=1658, len=2
+		 type=0xff51, pos=1660, len=49
+		 type=0xff52, pos=1709, len=14
+		 type=0xff5c, pos=1723, len=21
+	 }
+}

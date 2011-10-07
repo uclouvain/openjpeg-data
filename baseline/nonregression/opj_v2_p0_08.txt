@@ -1,0 +1,86 @@
+Image info {
+	 x0=0, y0=0
+	 x1=513, y1=3072
+	 numcomps=3
+		 component 0 {
+		 dx=1, dy=1
+		 prec=12
+		 sgnd=1
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=12
+		 sgnd=1
+	}
+		 component 2 {
+		 dx=1, dy=1
+		 prec=12
+		 sgnd=1
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=513, tdy=3072
+	 tw=1, th=1
+	 default tile {
+		 csty=0x6
+		 prg=0x4
+		 numlayers=30
+		 mct=0
+		 comp 0 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=4
+			 stepsizes (m,e)=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=8
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=4
+			 stepsizes (m,e)=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=9
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=4
+			 stepsizes (m,e)=(0,11) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) (0,12) (0,12) (0,13) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=0
+	 Main header end position=199
+	 Marker list: {
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=49
+		 type=0xff52, pos=51, len=14
+		 type=0xff53, pos=65, len=11
+		 type=0xff53, pos=76, len=11
+		 type=0xff53, pos=87, len=11
+		 type=0xff5c, pos=98, len=27
+		 type=0xff5d, pos=125, len=25
+		 type=0xff5d, pos=150, len=31
+		 type=0xff64, pos=181, len=18
+	 }
+}

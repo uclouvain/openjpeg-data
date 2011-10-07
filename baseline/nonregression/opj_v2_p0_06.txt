@@ -1,0 +1,103 @@
+Image info {
+	 x0=0, y0=0
+	 x1=513, y1=129
+	 numcomps=4
+		 component 0 {
+		 dx=1, dy=1
+		 prec=12
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=2, dy=1
+		 prec=12
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=1, dy=2
+		 prec=12
+		 sgnd=0
+	}
+		 component 3 {
+		 dx=2, dy=2
+		 prec=12
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=513, tdy=129
+	 tw=1, th=1
+	 default tile {
+		 csty=0
+		 prg=0x2
+		 numlayers=4
+		 mct=0
+		 comp 0 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=3
+			 stepsizes (m,e)=(512,7) (518,7) (522,7) (524,7) (516,6) (524,6) (522,6) (527,5) (523,5) (549,5) (557,4) (561,4) (853,4) (852,3) (700,3) (163,2) (78,1) (1508,2) (1831,1) 
+			 roishift=11
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=4
+			 stepsizes (m,e)=(1527,10) (489,10) (665,10) (506,10) (487,9) (502,9) (493,9) (493,8) (500,8) (485,8) (505,7) (491,7) (490,7) (491,6) (499,6) (509,6) (503,5) (496,5) (558,5) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=5
+			 stepsizes (m,e)=(1337,10) (728,10) (890,10) (719,10) (716,9) (726,9) (700,9) (718,8) (704,8) (704,8) (712,7) (712,7) (717,7) (719,6) (701,6) (749,6) (753,5) (718,5) (841,5) 
+			 roishift=0
+		 }
+		 comp 3 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=6
+			 stepsizes (m,e)=(0,12) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) (0,13) (0,13) (0,14) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=0
+	 Main header end position=242
+	 Marker list: {
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=52
+		 type=0xff52, pos=54, len=14
+		 type=0xff5c, pos=68, len=43
+		 type=0xff5d, pos=111, len=44
+		 type=0xff5d, pos=155, len=44
+		 type=0xff5d, pos=199, len=25
+		 type=0xff53, pos=224, len=11
+		 type=0xff5e, pos=235, len=7
+	 }
+}

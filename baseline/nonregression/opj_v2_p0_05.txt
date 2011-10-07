@@ -1,0 +1,104 @@
+Image info {
+	 x0=0, y0=0
+	 x1=1024, y1=1024
+	 numcomps=4
+		 component 0 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=2, dy=2
+		 prec=8
+		 sgnd=0
+	}
+		 component 3 {
+		 dx=2, dy=2
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=1024, tdy=1024
+	 tw=1, th=1
+	 default tile {
+		 csty=0
+		 prg=0x3
+		 numlayers=7
+		 mct=0
+		 comp 0 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=1
+			 numgbits=3
+			 stepsizes (m,e)=(0,14) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=4
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=3
+			 stepsizes (m,e)=(1814,16) (1815,16) (1815,16) (1817,16) (1821,15) (1821,15) (1827,15) (1845,14) (1845,14) (1868,14) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=3
+			 stepsizes (m,e)=(1814,16) (1815,16) (1815,16) (1817,16) (1821,15) (1821,15) (1827,15) (1845,14) (1845,14) (1868,14) (1925,13) (1925,13) (2007,13) (32,11) (32,11) (131,11) (2002,11) (2002,11) (1888,11) 
+			 roishift=0
+		 }
+		 comp 3 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=0
+			 numgbits=3
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=0
+	 Main header end position=225
+	 Marker list: {
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=52
+		 type=0xff52, pos=54, len=14
+		 type=0xff53, pos=68, len=11
+		 type=0xff53, pos=79, len=11
+		 type=0xff5c, pos=90, len=43
+		 type=0xff5d, pos=133, len=8
+		 type=0xff5d, pos=141, len=25
+		 type=0xff64, pos=166, len=47
+		 type=0xff55, pos=213, len=12
+	 }
+}
