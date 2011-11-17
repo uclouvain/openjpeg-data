@@ -1,0 +1,4658 @@
+Image info {
+	 x0=0, y0=0
+	 x1=1, y1=1
+	 numcomps=257
+		 component 0 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 3 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 4 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 5 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 6 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 7 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 8 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 9 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 10 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 11 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 12 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 13 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 14 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 15 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 16 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 17 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 18 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 19 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 20 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 21 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 22 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 23 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 24 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 25 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 26 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 27 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 28 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 29 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 30 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 31 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 32 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 33 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 34 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 35 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 36 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 37 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 38 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 39 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 40 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 41 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 42 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 43 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 44 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 45 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 46 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 47 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 48 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 49 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 50 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 51 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 52 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 53 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 54 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 55 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 56 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 57 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 58 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 59 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 60 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 61 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 62 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 63 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 64 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 65 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 66 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 67 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 68 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 69 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 70 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 71 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 72 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 73 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 74 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 75 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 76 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 77 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 78 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 79 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 80 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 81 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 82 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 83 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 84 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 85 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 86 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 87 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 88 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 89 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 90 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 91 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 92 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 93 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 94 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 95 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 96 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 97 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 98 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 99 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 100 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 101 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 102 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 103 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 104 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 105 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 106 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 107 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 108 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 109 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 110 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 111 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 112 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 113 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 114 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 115 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 116 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 117 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 118 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 119 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 120 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 121 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 122 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 123 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 124 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 125 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 126 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 127 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 128 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 129 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 130 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 131 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 132 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 133 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 134 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 135 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 136 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 137 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 138 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 139 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 140 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 141 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 142 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 143 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 144 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 145 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 146 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 147 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 148 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 149 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 150 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 151 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 152 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 153 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 154 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 155 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 156 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 157 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 158 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 159 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 160 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 161 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 162 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 163 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 164 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 165 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 166 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 167 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 168 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 169 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 170 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 171 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 172 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 173 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 174 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 175 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 176 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 177 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 178 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 179 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 180 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 181 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 182 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 183 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 184 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 185 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 186 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 187 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 188 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 189 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 190 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 191 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 192 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 193 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 194 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 195 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 196 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 197 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 198 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 199 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 200 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 201 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 202 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 203 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 204 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 205 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 206 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 207 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 208 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 209 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 210 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 211 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 212 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 213 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 214 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 215 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 216 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 217 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 218 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 219 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 220 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 221 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 222 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 223 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 224 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 225 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 226 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 227 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 228 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 229 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 230 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 231 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 232 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 233 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 234 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 235 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 236 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 237 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 238 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 239 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 240 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 241 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 242 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 243 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 244 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 245 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 246 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 247 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 248 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 249 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 250 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 251 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 252 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 253 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 254 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 255 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 256 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=1, tdy=1
+	 tw=1, th=1
+	 default tile {
+		 csty=0
+		 prg=0x1
+		 numlayers=1
+		 mct=1
+		 comp 0 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=3
+			 stepsizes (m,e)=(0,9) (0,10) (0,10) (0,11) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,9) (0,10) (0,10) (0,11) 
+			 roishift=0
+		 }
+		 comp 3 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=11
+		 }
+		 comp 4 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 5 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 6 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 7 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 8 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 9 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 10 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 11 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 12 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 13 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 14 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 15 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 16 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 17 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 18 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 19 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 20 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 21 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 22 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 23 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 24 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 25 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 26 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 27 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 28 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 29 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 30 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 31 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 32 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 33 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 34 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 35 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 36 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 37 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 38 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 39 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 40 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 41 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 42 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 43 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 44 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 45 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 46 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 47 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 48 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 49 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 50 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 51 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 52 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 53 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 54 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 55 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 56 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 57 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 58 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 59 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 60 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 61 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 62 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 63 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 64 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 65 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 66 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 67 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 68 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 69 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 70 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 71 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 72 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 73 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 74 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 75 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 76 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 77 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 78 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 79 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 80 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 81 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 82 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 83 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 84 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 85 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 86 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 87 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 88 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 89 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 90 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 91 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 92 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 93 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 94 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 95 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 96 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 97 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 98 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 99 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 100 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 101 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 102 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 103 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 104 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 105 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 106 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 107 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 108 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 109 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 110 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 111 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 112 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 113 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 114 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 115 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 116 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 117 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 118 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 119 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 120 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 121 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 122 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 123 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 124 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 125 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 126 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 127 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 128 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 129 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 130 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 131 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 132 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 133 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 134 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 135 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 136 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 137 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 138 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 139 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 140 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 141 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 142 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 143 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 144 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 145 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 146 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 147 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 148 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 149 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 150 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 151 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 152 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 153 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 154 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 155 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 156 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 157 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 158 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 159 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 160 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 161 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 162 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 163 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 164 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 165 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 166 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 167 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 168 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 169 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 170 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 171 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 172 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 173 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 174 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 175 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 176 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 177 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 178 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 179 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 180 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 181 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 182 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 183 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 184 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 185 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 186 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 187 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 188 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 189 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 190 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 191 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 192 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 193 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 194 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 195 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 196 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 197 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 198 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 199 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 200 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 201 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 202 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 203 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 204 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 205 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 206 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 207 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 208 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 209 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 210 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 211 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 212 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 213 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 214 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 215 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 216 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 217 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 218 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 219 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 220 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 221 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 222 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 223 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 224 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 225 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 226 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 227 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 228 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 229 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 230 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 231 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 232 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 233 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 234 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 235 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 236 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 237 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 238 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 239 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 240 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 241 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 242 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 243 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 244 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 245 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 246 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 247 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 248 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 249 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 250 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 251 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 252 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 253 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 254 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 255 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 256 {
+			 csty=0
+			 numresolutions=2
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0x10
+			 qmfbid=1
+			 preccintsize (w,h)=(15,15) (15,15) 
+			 qntsty=0
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=0
+	 Main header end position=947
+	 Marker list: {
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=811
+		 type=0xff52, pos=813, len=14
+		 type=0xff53, pos=827, len=12
+		 type=0xff5c, pos=839, len=9
+		 type=0xff5d, pos=848, len=11
+		 type=0xff5d, pos=859, len=11
+		 type=0xff5e, pos=870, len=8
+		 type=0xff5f, pos=878, len=22
+		 type=0xff64, pos=900, len=47
+	 }
+}
