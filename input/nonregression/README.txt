@@ -1,3 +1,31 @@
+## DOCUMENTATION ##
+
+### 123.j2c ###
+
+OpenJPEG 1.5 can deal with this image:
+
+$ ./bin/j2k_to_image -i 123.j2c -o t.pgx
+
+[INFO] tile 1 of 1
+[INFO] - tiers-1 took 3.720233 s
+[INFO] - dwt took 0.240015 s
+[WARNING] Number of components (1) is inconsistent with a MCT. Skip the MCT step.
+[INFO] - tile decoded in 4.052254 s
+Generated Outfile t.pgx
+
+However kakadu 6.3.1 cannot:
+
+$ kdu_expand -i 123.j2c -o t.rawl
+Kakadu Core Error:
+Illegal colour transform specified when image has insufficient or incompatible
+colour components.
+
+
+
+
+
+## ORIGIN ##
+
 This repository will serve to host the dataset used in the regression testing
 for OpenJPEG a JPEG 2000 implementation in C (BSD license)
 http://openjpeg.org
