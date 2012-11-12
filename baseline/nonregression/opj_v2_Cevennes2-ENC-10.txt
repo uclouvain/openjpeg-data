@@ -70,12 +70,12 @@ Codestream info from main header: {
 }
 Codestream index from main header: {
 	 Main header start position=85
-	 Main header end position=211
+	 Main header end position=210
 	 Marker list: {
 		 type=0xff4f, pos=85, len=2
 		 type=0xff51, pos=87, len=49
 		 type=0xff52, pos=136, len=14
 		 type=0xff5c, pos=150, len=21
-		 type=0xff64, pos=171, len=40
+		 type=0xff64, pos=171, len=39
 	 }
 }
