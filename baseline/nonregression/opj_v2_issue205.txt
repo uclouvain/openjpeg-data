@@ -1,0 +1,98 @@
+Image info {
+	 x0=0, y0=0
+	 x1=540, y1=785
+	 numcomps=4
+		 component 0 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 3 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=256, tdy=256
+	 tw=3, th=4
+	 default tile {
+		 csty=0
+		 prg=0x1
+		 numlayers=1
+		 mct=1
+		 comp 0 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+		 comp 3 {
+			 csty=0
+			 numresolutions=6
+			 cblkw=2^5
+			 cblkh=2^5
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=123
+	 Main header end position=228
+	 Marker list: {
+		 type=0xff4f, pos=123, len=2
+		 type=0xff51, pos=125, len=52
+		 type=0xff52, pos=177, len=14
+		 type=0xff5c, pos=191, len=37
+	 }
+}
