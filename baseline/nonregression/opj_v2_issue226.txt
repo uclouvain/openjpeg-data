@@ -1,6 +1,6 @@
 Image info {
 	 x0=0, y0=0
-	 x1=768, y1=512
+	 x1=1253, y1=1645
 	 numcomps=3
 		 component 0 {
 		 dx=1, dy=1
@@ -20,7 +20,7 @@ Image info {
 }
 Codestream info from main header: {
 	 tx0=0, ty0=0
-	 tdx=768, tdy=512
+	 tdx=1253, tdy=1645
 	 tw=1, th=1
 	 default tile {
 		 csty=0
@@ -36,8 +36,8 @@ Codestream info from main header: {
 			 qmfbid=1
 			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
-			 numgbits=1
-			 stepsizes (m,e)=(0,10) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) 
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 		 comp 1 {
@@ -49,8 +49,8 @@ Codestream info from main header: {
 			 qmfbid=1
 			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
-			 numgbits=1
-			 stepsizes (m,e)=(0,10) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) 
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 		 comp 2 {
@@ -62,19 +62,19 @@ Codestream info from main header: {
 			 qmfbid=1
 			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
-			 numgbits=1
-			 stepsizes (m,e)=(0,10) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) (0,11) (0,11) (0,12) 
+			 numgbits=2
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 	 }
 }
 Codestream index from main header: {
-	 Main header start position=631
-	 Main header end position=717
+	 Main header start position=0
+	 Main header end position=86
 	 Marker list: {
-		 type=0xff4f, pos=631, len=2
-		 type=0xff51, pos=633, len=49
-		 type=0xff52, pos=682, len=14
-		 type=0xff5c, pos=696, len=21
+		 type=0xff4f, pos=0, len=2
+		 type=0xff51, pos=2, len=49
+		 type=0xff52, pos=51, len=14
+		 type=0xff5c, pos=65, len=21
 	 }
 }
