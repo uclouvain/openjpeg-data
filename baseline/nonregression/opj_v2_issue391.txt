@@ -1,0 +1,84 @@
+Image info {
+	 x0=0, y0=0
+	 x1=3450, y1=4475
+	 numcomps=3
+		 component 0 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 1 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+		 component 2 {
+		 dx=1, dy=1
+		 prec=8
+		 sgnd=0
+	}
+}
+Codestream info from main header: {
+	 tx0=0, ty0=0
+	 tdx=256, tdy=256
+	 tw=14, th=18
+	 default tile {
+		 csty=0
+		 prg=0x1
+		 numlayers=1
+		 mct=1
+		 comp 0 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(182,15) (1098,9) (1098,9) (1057,9) (1103,8) (1103,8) (1066,8) (1121,7) (1121,7) (1097,7) (1185,6) (1185,6) (1204,6) (1338,5) (1338,5) (1447,5) (1295,4) (1295,4) (1201,4) 
+			 roishift=0
+		 }
+		 comp 1 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(92,15) (971,9) (971,9) (932,9) (976,8) (976,8) (940,8) (993,7) (993,7) (969,7) (1054,6) (1054,6) (1072,6) (1201,5) (1201,5) (1306,5) (1160,4) (1160,4) (1070,4) 
+			 roishift=0
+		 }
+		 comp 2 {
+			 csty=0
+			 numresolutions=7
+			 cblkw=2^6
+			 cblkh=2^6
+			 cblksty=0
+			 qmfbid=0
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
+			 qntsty=2
+			 numgbits=2
+			 stepsizes (m,e)=(407,15) (1416,9) (1416,9) (1371,9) (1421,8) (1421,8) (1380,8) (1441,7) (1441,7) (1414,7) (1511,6) (1511,6) (1532,6) (1680,5) (1680,5) (1800,5) (1632,4) (1632,4) (1529,4) 
+			 roishift=0
+		 }
+	 }
+}
+Codestream index from main header: {
+	 Main header start position=133
+	 Main header end position=1360
+	 Marker list: {
+		 type=0xff4f, pos=133, len=2
+		 type=0xff51, pos=135, len=49
+		 type=0xff5c, pos=184, len=43
+		 type=0xff5d, pos=227, len=44
+		 type=0xff5d, pos=271, len=44
+		 type=0xff52, pos=315, len=14
+		 type=0xff64, pos=329, len=17
+		 type=0xff55, pos=346, len=1014
+	 }
+}
