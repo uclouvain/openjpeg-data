@@ -34,66 +34,66 @@ Codestream info from main header: {
 		 mct=1
 		 comp 0 {
 			 csty=0
-			 numresolutions=5
+			 numresolutions=6
 			 cblkw=2^6
 			 cblkh=2^6
 			 cblksty=0
 			 qmfbid=1
-			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) 
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
 			 numgbits=2
-			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 		 comp 1 {
 			 csty=0
-			 numresolutions=5
+			 numresolutions=6
 			 cblkw=2^6
 			 cblkh=2^6
 			 cblksty=0
 			 qmfbid=1
-			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) 
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
 			 numgbits=2
-			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 		 comp 2 {
 			 csty=0
-			 numresolutions=5
+			 numresolutions=6
 			 cblkw=2^6
 			 cblkh=2^6
 			 cblksty=0
 			 qmfbid=1
-			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) 
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
 			 numgbits=2
-			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 		 comp 3 {
 			 csty=0
-			 numresolutions=5
+			 numresolutions=6
 			 cblkw=2^6
 			 cblkh=2^6
 			 cblksty=0
 			 qmfbid=1
-			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) 
+			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
 			 numgbits=2
-			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
+			 stepsizes (m,e)=(0,8) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) (0,9) (0,9) (0,10) 
 			 roishift=0
 		 }
 	 }
 }
 Codestream index from main header: {
 	 Main header start position=119
-	 Main header end position=244
+	 Main header end position=247
 	 Marker list: {
 		 type=0xff4f, pos=119, len=2
 		 type=0xff51, pos=121, len=52
 		 type=0xff52, pos=173, len=14
-		 type=0xff5c, pos=187, len=18
-		 type=0xff64, pos=205, len=39
+		 type=0xff5c, pos=187, len=21
+		 type=0xff64, pos=208, len=39
 	 }
 }
