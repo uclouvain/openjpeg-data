@@ -1,6 +1,6 @@
 Image info {
 	 x0=0, y0=0
-	 x1=2048, y1=2816
+	 x1=2048, y1=32
 	 numcomps=1
 		 component 0 {
 		 dx=1, dy=1
@@ -10,7 +10,7 @@ Image info {
 }
 Codestream info from main header: {
 	 tx0=0, ty0=0
-	 tdx=2048, tdy=2816
+	 tdx=2048, tdy=32
 	 tw=1, th=1
 	 default tile {
 		 csty=0
