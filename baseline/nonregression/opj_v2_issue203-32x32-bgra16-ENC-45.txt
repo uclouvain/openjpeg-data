@@ -81,19 +81,20 @@ Codestream info from main header: {
 			 preccintsize (w,h)=(15,15) (15,15) (15,15) (15,15) (15,15) (15,15) 
 			 qntsty=0
 			 numgbits=2
-			 stepsizes (m,e)=(0,5) (0,6) (0,6) (0,7) (0,6) (0,6) (0,7) (0,6) (0,6) (0,7) (0,6) (0,6) (0,7) (0,6) (0,6) (0,7) 
+			 stepsizes (m,e)=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
 			 roishift=0
 		 }
 	 }
 }
 Codestream index from main header: {
 	 Main header start position=131
-	 Main header end position=259
+	 Main header end position=281
 	 Marker list: {
 		 type=0xff4f, pos=131, len=2
 		 type=0xff51, pos=133, len=52
 		 type=0xff52, pos=185, len=14
 		 type=0xff5c, pos=199, len=21
-		 type=0xff64, pos=220, len=39
+		 type=0xff5d, pos=220, len=22
+		 type=0xff64, pos=242, len=39
 	 }
 }
