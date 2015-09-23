@@ -1,0 +1,110 @@
+image {
+  x0=0, y0=0, x1=4, y1=4
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=16
+    sgnd=0
+  }
+  comp 1 {
+    dx=1, dy=1
+    prec=16
+    sgnd=0
+  }
+  comp 2 {
+    dx=1, dy=1
+    prec=16
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=-4, ty0=0
+  tdx=4, tdy=4
+  tw=2, th=1
+  tile 0 {
+    csty=0
+    prg=0
+    numlayers=1
+    mct=1
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=1
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,16) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=1
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,16) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=1
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=2
+      roishift=0
+      stepsizes=(0,16) 
+    }
+  }
+  tile 1 {
+    csty=0
+    prg=0
+    numlayers=0
+    mct=0
+    rates=
+    comp 0 {
+      csty=0
+      numresolutions=0
+      cblkw=0
+      cblkh=0
+      cblksty=0
+      qmfbid=0
+      qntsty=0
+      numgbits=0
+      roishift=0
+      stepsizes=
+    }
+    comp 1 {
+      csty=0
+      numresolutions=0
+      cblkw=0
+      cblkh=0
+      cblksty=0
+      qmfbid=0
+      qntsty=0
+      numgbits=0
+      roishift=0
+      stepsizes=
+    }
+    comp 2 {
+      csty=0
+      numresolutions=0
+      cblkw=0
+      cblkh=0
+      cblksty=0
+      qmfbid=0
+      qntsty=0
+      numgbits=0
+      roishift=0
+      stepsizes=
+    }
+  }
+}

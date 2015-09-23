@@ -1,0 +1,73 @@
+image {
+  x0=0, y0=0, x1=1920, y1=1080
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=10
+    sgnd=0
+  }
+  comp 1 {
+    dx=2, dy=1
+    prec=10
+    sgnd=0
+  }
+  comp 2 {
+    dx=2, dy=1
+    prec=10
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=1920, tdy=1080
+  tw=1, th=1
+  tile 0 {
+    csty=1
+    prg=4
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=1
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1122,18) (1079,18) (1079,18) (1042,18) (1097,17) (1097,17) (1073,17) (1160,16) (1160,16) (1180,16) (1313,15) (1313,15) (1421,15) (1270,14) (1270,14) (1177,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+    comp 1 {
+      csty=1
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1122,18) (1079,18) (1079,18) (1042,18) (1097,17) (1097,17) (1073,17) (1160,16) (1160,16) (1180,16) (1313,15) (1313,15) (1421,15) (1270,14) (1270,14) (1177,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+    comp 2 {
+      csty=1
+      numresolutions=6
+      cblkw=6
+      cblkh=6
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1122,18) (1079,18) (1079,18) (1042,18) (1097,17) (1097,17) (1073,17) (1160,16) (1160,16) (1180,16) (1313,15) (1313,15) (1421,15) (1270,14) (1270,14) (1177,14) 
+      prcw=7 8 8 8 8 8 
+      prch=7 8 8 8 8 8 
+    }
+  }
+}

@@ -1,0 +1,67 @@
+image {
+  x0=0, y0=0, x1=720, y1=243
+  numcomps=3
+  comp 0 {
+    dx=1, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 1 {
+    dx=2, dy=1
+    prec=8
+    sgnd=0
+  }
+  comp 2 {
+    dx=2, dy=1
+    prec=8
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=720, tdy=243
+  tw=1, th=1
+  tile 0 {
+    csty=0
+    prg=0
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=7
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1816,13) (1792,13) (1792,13) (1724,13) (1770,12) (1770,12) (1724,12) (1868,11) (1868,11) (1892,11) (3,9) (3,9) (69,9) (2002,9) (2002,9) (1889,9) 
+    }
+    comp 1 {
+      csty=0
+      numresolutions=6
+      cblkw=7
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1816,13) (1792,13) (1792,13) (1724,13) (1770,12) (1770,12) (1724,12) (1868,11) (1868,11) (1892,11) (3,9) (3,9) (69,9) (2002,9) (2002,9) (1889,9) 
+    }
+    comp 2 {
+      csty=0
+      numresolutions=6
+      cblkw=7
+      cblkh=5
+      cblksty=0
+      qmfbid=0
+      qntsty=2
+      numgbits=1
+      roishift=0
+      stepsizes=(1816,13) (1792,13) (1792,13) (1724,13) (1770,12) (1770,12) (1724,12) (1868,11) (1868,11) (1892,11) (3,9) (3,9) (69,9) (2002,9) (2002,9) (1889,9) 
+    }
+  }
+}

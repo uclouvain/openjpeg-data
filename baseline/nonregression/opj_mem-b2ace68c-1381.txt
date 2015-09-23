@@ -1,0 +1,242 @@
+image {
+  x0=0, y0=0, x1=649, y1=865
+  numcomps=1
+  comp 0 {
+    dx=1, dy=1
+    prec=1
+    sgnd=0
+  }
+}
+coding parameters {
+  tx0=0, ty0=0
+  tdx=256, tdy=256
+  tw=3, th=4
+  tile 0 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 1 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 2 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 3 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 4 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 5 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 6 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 7 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 8 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 9 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 10 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+  tile 11 {
+    csty=0
+    prg=1
+    numlayers=1
+    mct=0
+    rates=0.0 
+    comp 0 {
+      csty=0
+      numresolutions=6
+      cblkw=5
+      cblkh=5
+      cblksty=0
+      qmfbid=1
+      qntsty=0
+      numgbits=3
+      roishift=0
+      stepsizes=(0,1) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) (0,2) (0,2) (0,3) 
+    }
+  }
+}
