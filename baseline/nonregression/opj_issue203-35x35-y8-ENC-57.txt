@@ -1,5 +1,5 @@
 image {
-  x0=0, y0=0, x1=512, y1=512
+  x0=0, y0=0, x1=35, y1=35
   numcomps=1
   comp 0 {
     dx=1, dy=1
@@ -9,7 +9,7 @@ image {
 }
 coding parameters {
   tx0=0, ty0=0
-  tdx=512, tdy=512
+  tdx=35, tdy=35
   tw=1, th=1
   tile 0 {
     csty=0
